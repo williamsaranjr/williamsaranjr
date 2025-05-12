@@ -1,8 +1,7 @@
-### :star2: Olá!
-Meu nome é **William Saran**, tenho 19 anos e moro em São Paulo. Sou apaixonado por tecnologia, programação e jogos! 
+### :star2: Olá, me chamo William Saran!
+Tenho 19 anos de idade e moro na cidade de São Paulo. Sou apaixonado por tecnologia, programação e jogos!
 
 Atualmente, estou me desenvolvendo nas áreas de **computação em nuvem**, **arquitetura de software** e **desenvolvimento mobile**.
-
 Meu objetivo é se tornar um engenheiro de software qualificado e usar do conhecimento adquirido para contribuir com projetos relevantes.
 
 
@@ -31,3 +30,13 @@ Meu objetivo é se tornar um engenheiro de software qualificado e usar do conhec
 <a href="https://www.linkedin.com/in/williamsaran/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height=35em alt="LinkedIn"/>
 </a>
+
+<div align="center">
+    <h3>:earth_americas: Select a language</h3>
+    <a href="https://github.com/williamsaranjr/" alt="Português">
+        <img src="https://flagpedia.net/data/flags/w1160/br.webp" height=35em alt="Português" />
+    </a>
+    <a href="https://github.com/williamsaranjr/williamsaranjr/docs/README-en.md" alt="English">
+        <img src="https://flagpedia.net/data/flags/w1160/gb.webp" height=35em alt="English" />
+    </a>
+</div>
