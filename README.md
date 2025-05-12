@@ -36,7 +36,7 @@ Meu objetivo é se tornar um engenheiro de software qualificado e usar do conhec
     <a href="https://github.com/williamsaranjr/" alt="Português">
         <img src="https://flagpedia.net/data/flags/w1160/br.webp" height=35em alt="Português" />
     </a>
-    <a href="https://github.com/williamsaranjr/williamsaranjr/docs/README-en.md](https://github.com/williamsaranjr/williamsaranjr/blob/main/docs/README-en.md" alt="English">
+    <a href="https://github.com/williamsaranjr/williamsaranjr/blob/main/docs/README-en.md" alt="English">
         <img src="https://flagpedia.net/data/flags/w1160/gb.webp" height=35em alt="English" />
     </a>
 </div>
