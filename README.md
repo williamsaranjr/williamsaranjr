@@ -1,7 +1,7 @@
 ### :star2: Olá!
 Meu nome é **William Saran**, tenho 19 anos e moro em São Paulo. Sou apaixonado por tecnologia, programação e jogos! 
 
-Atualmente, estou me desenvolvendo nas áreas de **computação em nuvem** e **arquitetura de software**.
+Atualmente, estou me desenvolvendo nas áreas de **computação em nuvem**, **arquitetura de software** e **desenvolvimento mobile**.
 
 Meu objetivo é se tornar um engenheiro de software qualificado e usar do conhecimento adquirido para contribuir com projetos relevantes.
 
