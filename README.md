@@ -2,7 +2,7 @@
 Tenho 19 anos de idade e moro na cidade de São Paulo. Sou apaixonado por tecnologia, programação e jogos!
 
 Atualmente, estou me desenvolvendo nas áreas de **computação em nuvem**, **arquitetura de software** e **desenvolvimento mobile**.
-Meu objetivo é se tornar um engenheiro de software qualificado e usar do conhecimento adquirido para contribuir com projetos relevantes.
+Meu objetivo é me tornar um engenheiro de software qualificado e usar do conhecimento adquirido para contribuir com projetos relevantes.
 
 
 #### :briefcase: Experiência profissional
