@@ -6,7 +6,7 @@ My goal is to become a skilled software engineer and contribute to relevant proj
 
 
 #### :briefcase: Work experience
-- :office: **Software Engineering** intern at **IBM Brazil**
+- :office: **Software Engineer** at **IBM Brazil**
 
 
 #### :books: Education

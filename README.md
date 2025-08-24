@@ -6,7 +6,7 @@ Meu objetivo é me tornar um engenheiro de software qualificado e usar do conhec
 
 
 #### :briefcase: Experiência profissional
-- :office: Estagiário de **Engenharia de Software** na **IBM Brasil**
+- :office: **Engenheiro de Software** na **IBM Brasil**
 
 
 #### :books: Formação acadêmica
