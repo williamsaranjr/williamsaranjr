@@ -15,4 +15,6 @@ I work at **IBM Consulting** as a **Software Developer**, taking part on the **r
 I'm a **Computer Science** student at **Mackenzie Presbyterian University (UPM)**, one of the most
 traditional private universities in Brazil.
 
+#### :globe_with_meridians: Languages
+
 I speak **Portuguese**, **English** and I'm currently learning **German**.
