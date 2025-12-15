@@ -12,6 +12,7 @@ My goal is to become a skilled software engineer and contribute to relevant proj
 #### :books: Education
 
 - :mortar_board: **Computer Science** undergrad at **Mackenzie Presbyterian University**
+
   :information_source: Located in the city of São Paulo, **UPM** is one of the **most traditional private universities** in Brazil.
 
 - :globe_with_meridians: Languages: I speak **Portuguese**, **English** and currently learning **German**
