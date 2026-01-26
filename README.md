@@ -16,4 +16,4 @@ traditional private universities in Brazil
 
 #### :globe_with_meridians: Languages
 
-I speak **Portuguese**, **English** and I'm currently learning **German**
+I speak native **Portuguese**, advanced **English** and I'm currently learning **German**
