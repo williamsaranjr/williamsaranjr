@@ -7,7 +7,7 @@ aiming to become a skilled and aware developer, contributing to impactful projec
 
 #### :briefcase: Work experience
 
-I work at **IBM Consulting** as a **Software Engineer**
+Previously worked at **IBM Consulting** as a **Software Engineer**
 
 #### :books: Education
 
