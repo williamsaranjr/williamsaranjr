@@ -7,7 +7,11 @@ aiming to become a skilled and aware developer, contributing to impactful projec
 
 #### :briefcase: Work experience
 
-Previously worked at **IBM Consulting** as a **Software Engineer**
+Currently, I'm working as a **Software Engineer** at **Mercado Livre**, Latin America's leading
+e-commerce and fintech ecosystem
+
+Previously, I worked at **IBM Consulting**, where I had the opportunity to act alongside **Itaú Unibanco**,
+Brazil's largest private bank
 
 #### :books: Education
 
