@@ -1,6 +1,6 @@
 ### :star2: Olá, I'm William Saran!
 
-Based in **São Paulo, Brazil**, I'm a **20-year-old** tech enthusiast with a deep passion for programming and gaming
+Based in São Paulo, Brazil, I'm a 20-year-old tech enthusiast with a deep passion for programming and gaming
 
 My main focus right now is mastering **cloud computing** and **software architecture** to become a highly skilled
 developer and contribute to impactful projects
